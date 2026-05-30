@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuerify",
+        "uuid": 1968694,
+        "checksum": "syocyj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
